@@ -1,0 +1,14 @@
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\bin\Debug\net9.0\HomeFileNotes19.07.exe
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\bin\Debug\net9.0\HomeFileNotes19.07.deps.json
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\bin\Debug\net9.0\HomeFileNotes19.07.runtimeconfig.json
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\bin\Debug\net9.0\HomeFileNotes19.07.dll
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\bin\Debug\net9.0\HomeFileNotes19.07.pdb
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.AssemblyInfoInputs.cache
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.AssemblyInfo.cs
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.csproj.CoreCompileInputs.cache
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.dll
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\refint\HomeFileNotes19.07.dll
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.pdb
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\HomeFileNotes19.07.genruntimeconfig.cache
+D:\Save program IT\C#\HomeFileNotes19.07\HomeFileNotes19.07\obj\Debug\net9.0\ref\HomeFileNotes19.07.dll
